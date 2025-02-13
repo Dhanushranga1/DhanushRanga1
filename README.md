@@ -10,10 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my early coding days, now fixing them faster than ever!
-📚 I'm currently learning advanced full-stack development, cloud computing, and AI-driven applications.
-🎯 Goals: Build high-performance, scalable applications and innovate in real-time systems, AI, and cybersecurity.
-🎲 Fun fact: I speak four languages fluently and can code in six programming languages!</p>
+<p align="left"> ✨ **Creating bugs since** my early coding days, now fixing them faster than ever! <br><br> 📚 **I'm currently learning** advanced **full-stack development, cloud computing, and AI-driven applications**. <br><br> 🎯 **Goals:** - Build **high-performance, scalable applications**. - Innovate in **real-time systems, AI, and cybersecurity**. - Master **cloud computing and DevOps** for seamless deployments. <br><br> 🎲 **Fun fact:** - I speak **four languages fluently**. - I can code in **six programming languages**! 🚀 </p> 
 
 ###
 
