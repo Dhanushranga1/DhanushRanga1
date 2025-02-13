@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Dhanush Ranga Gopisetty, and I'm a Computer Science Engineering student from Chennai, India.</p>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since my early coding days, now fixing them faster than ever!
+📚 I'm currently learning advanced full-stack development, cloud computing, and AI-driven applications.
+🎯 Goals: Build high-performance, scalable applications and innovate in real-time systems, AI, and cybersecurity.
+🎲 Fun fact: I speak four languages fluently and can code in six programming languages! 🚀<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
