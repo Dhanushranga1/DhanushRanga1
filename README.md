@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dhanush Ranga Gopisetty, and I'm a Computer Science Engineering student from Chennai, India.</p>
+<p align="left">My name is Dhanush Ranga Gopisetty, and I'm a Computer Science Engineering student with a strong foundation in software development, data structures, and algorithms. Experienced in full-stack development, data analysis, and machine learning, with hands-on project experience in real-time systems and cloud computing. Passionate about solving complex problems, exploring emerging technologies, and building high-performance applications. Adept at strategic decision-making, combining technical expertise with market-driven insights. Fast learner, highly adaptable, and eager to contribute to innovative, fast-paced tech environments.</p>
 
 ###
 
