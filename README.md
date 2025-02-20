@@ -10,7 +10,23 @@
 
 ###
 
-<p align="left"> I write code that works… eventually. :) <br><br> 📚 I'm currently learning advanced full-stack development, cloud computing, and AI-driven applications. <br><br> 🎯 Goals: - Build high-performance, scalable applications. - Innovate in real-time systems, AI, and cybersecurity. - Master cloud computing and DevOps for seamless deployments. <br><br> 🎲 Fun fact: - I speak four languages fluently. - I can code in six programming languages! 🚀 </p> 
+<p align="left">  
+  I write code that works… eventually. :) <br><br>  
+
+  📚 I'm currently learning advanced full-stack development, cloud computing, and AI-driven applications. <br><br>  
+
+  🔥 I'm currently building **SEERS(Secure & Efficient Entitity Recognition System)**, an AI-powered cybersecurity platform designed to help small companies **detect threats, prevent cyber attacks, and secure their systems with AI-driven risk analysis**—all in an intuitive, futuristic cyberpunk dashboard. Currently, **the Threat Intelligence Dashboard and admin panel are functional**, with features like **AI-driven risk scoring and security analytics**. Next up: **Live Threat Map and AI-powered continuous authentication**. <br><br>  
+
+  🎯 Goals:  
+  - Build high-performance, scalable applications.  
+  - Innovate in real-time systems, AI, and cybersecurity.  
+  - Master cloud computing and DevOps for seamless deployments. <br><br>  
+
+  🎲 Fun fact:  
+  - I speak four languages fluently.  
+  - I can code in six programming languages! 🚀  
+</p>
+
 
 ###
 
