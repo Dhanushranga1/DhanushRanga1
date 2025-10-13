@@ -18,22 +18,19 @@ Fast learner, highly adaptable, and eager to contribute to innovative, fast-pace
 <p align="left">  
   I write code that works… eventually. :) <br><br>  
 
-  📚 I'm currently learning advanced backend development, cloud computing, and AI-driven applications. <br><br>  
+  I'm currently learning advanced backend development, cloud computing, and AI-driven applications. <br><br>  
 
-  🧠 I recently built and published a <b>Python library called <a href="https://pypi.org/project/scrubpy/">ScrubPy</a></b> — a CLI tool that automates data cleaning and profiling using Python and LLMs. It’s designed to help data analysts clean datasets faster and generate easy-to-read EDA reports. <br><br>  
+  I recently built and published a <b>Python library called <a href="https://pypi.org/project/scrubpy/">ScrubPy</a></b> — a CLI tool that automates data cleaning and profiling using Python and LLMs. It’s designed to help data analysts clean datasets faster and generate easy-to-read EDA reports. <br><br>  
 
-  🚀 I also developed <b>TicketPilot</b>, an AI-based support platform using <b>FastAPI, PostgreSQL, and FAISS</b>, which helps improve first-response accuracy through retrieval-augmented generation. <br><br>  
+  I also developed <b>TicketPilot</b>, an AI-based support platform using <b>FastAPI, PostgreSQL, and FAISS</b>, which helps improve first-response accuracy through retrieval-augmented generation. <br><br>  
 
-  ☁️ I have foundational knowledge of <b>Docker, Kubernetes, Terraform, GitHub Actions, and AWS EC2</b> — combining development and DevOps to build scalable, production-ready systems. <br><br>  
+  I have foundational knowledge of <b>Docker, Kubernetes, Terraform, GitHub Actions, and AWS EC2</b> — combining development and DevOps to build scalable, production-ready systems. <br><br>  
 
-  🎯 Goals:  
+  Goals:  
   - Build high-performance, scalable backend applications.  
   - Work with real-world AI and cloud infrastructure.  
   - Contribute to impactful open-source projects. <br><br>  
 
-  🎲 Fun fact:  
-  - I speak four languages fluently.  
-  - I can code in six programming languages! 🚀  
 </p>
 
 ###
