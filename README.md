@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hey, I'm Dhanush Ranga Gopisetty
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=326CE5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=DevOps+Architect+%7C+AI+Engineer;Building+the+Future+of+Cloud+%2B+AI;Automating+Infrastructure+at+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=326CE5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Aspiring+Devops+%7C+AI+Engineer;Building+the+Future+of+Cloud+%2B+AI;Automating+Infrastructure+at+Scale" alt="Typing SVG" />
 </div>
 
 <br/>
